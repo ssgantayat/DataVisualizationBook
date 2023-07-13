@@ -20,7 +20,7 @@ No. The book is very purposefully designed to not be a programming book. The mom
 **2\. Can you at least provide direct links from the figures to the code chunks in the markdown files?**
 
 No. First, this is really a feature request for R Markdown. If R Markdown provided this feature I might consider turning it on. Second, however, for many figures in the book there is no single self-contained code chunk that generates the figure. Instead, a later figure in a chapter may depend on computations that were performed in an earlier chunk for a different figure. In general, even though the R Markdown files for individual chapters are self-contained, the code chunks within each file build on top of each other. Therefore, to understand how a specific figure was made, you may have to read through the entire R Markdown file for that chapter.
-
+https://clauswilke.com/dataviz/ 
 ## Disclaimer
 
 This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
